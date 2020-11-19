@@ -1,0 +1,2 @@
+1.
+The task is that 2 coordinates of a rectangle is given. We have to find area, circunmference and diagonal length. Moreover we have to fix the coordinates in order to make Big square and small square.
